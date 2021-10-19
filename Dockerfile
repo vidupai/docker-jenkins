@@ -1,1 +1,1 @@
-docker pull alpine
+FROM alpine:3.13.5
